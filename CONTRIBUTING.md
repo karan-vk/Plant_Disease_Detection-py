@@ -5,17 +5,17 @@
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Discussing the current state of the code
-- [Reporting a bug](https://github.com/imskr/Plant_Disease_Detection/blob/master/.github/ISSUE_TEMPLATE/bug_report_template.md)
-- [Submitting a fix](https://github.com/imskr/Plant_Disease_Detection/blob/master/pull_request_template.md)
-- [Proposing new features](https://github.com/imskr/Plant_Disease_Detection/blob/master/.github/ISSUE_TEMPLATE/feature_request_template.md)
+- [Reporting a bug](https://github.com/karan-vk/Plant_Disease_Detection-py/blob/master/.github/ISSUE_TEMPLATE/bug_report_template.md)
+- [Submitting a fix](https://github.com/karan-vk/Plant_Disease_Detection-py/blob/master/pull_request_template.md)
+- [Proposing new features](https://github.com/karan-vk/Plant_Disease_Detection-py/blob/master/.github/ISSUE_TEMPLATE/feature_request_template.md)
 
 ## Steps to follow :scroll:
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Plant_Disease_Detection]( https://github.com/imskr/Plant_Disease_Detection) by using the <kbd><b>Fork</b></kbd></a> button.
+You can get your own fork/copy of [Plant_Disease_Detection]( https://github.com/karan-vk/Plant_Disease_Detection-py) by using the <kbd><b>Fork</b></kbd></a> button.
 
- [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/imskr/Plant_Disease_Detection)
+ [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/karan-vk/Plant_Disease_Detection-py)
 
 ### 2. Clone it :busts_in_silhouette:
 
@@ -46,10 +46,10 @@ origin  https://github.com/Your_Username/Plant_Disease_Detection.git (fetch)
 origin  https://github.com/Your_Username/Plant_Disease_Detection.git (push)
 ```
 
-Now, add a reference to the original [Plant_Disease_Detection](https://github.com/imskr/Plant_Disease_Detection) repository using
+Now, add a reference to the original [Plant_Disease_Detection](https://github.com/karan-vk/Plant_Disease_Detection-py) repository using
 
 ```sh
-git remote add upstream https://github.com/imskr/Plant_Disease_Detection.git
+git remote add upstream https://github.com/karan-vk/Plant_Disease_Detection-py.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -60,8 +60,8 @@ See the changes using
 git remote -v
 origin    https://github.com/Your_Username/Plant_Disease_Detection.git (fetch)
 origin    https://github.com/Your_Username/Plant_Disease_Detection.git (push)
-upstream  https://github.com/imskr/Plant_Disease_Detection.git (fetch)
-upstream  https://github.com/imskr/Plant_Disease_Detection.git (push)
+upstream  https://github.com/karan-vk/Plant_Disease_Detection-py.git (fetch)
+upstream  https://github.com/karan-vk/Plant_Disease_Detection-py.git (push)
 ```
 
 ### 4. Sync it :recycle:
@@ -85,7 +85,7 @@ git push origin master
 
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/imskr/Plant_Disease_Detection/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/karan-vk/Plant_Disease_Detection-py/pulls).
 
 ### 6. Create a new branch :bangbang:
 
@@ -127,7 +127,7 @@ git push -u origin Branch_Name
 ```
 
 Finally, go to your repository in browser and click on `compare and pull requests`.
-Use our [pull request template format](https://github.com/imskr/Plant_Disease_Detection/blob/master/pull_request_template.md).
+Use our [pull request template format](https://github.com/karan-vk/Plant_Disease_Detection-py/blob/master/pull_request_template.md).
 Then add a title and description to your pull request that explains your precious effort. 
 
 Sit and relax till we review your PR, you've made your contribution to our project.

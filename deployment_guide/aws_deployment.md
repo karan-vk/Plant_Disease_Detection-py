@@ -32,7 +32,7 @@ EB CLI 3.17.1 (Python 3.7.4)
 Enter the following command to clone the app repository to your Local Workspace and Go to the directory that contains the code
     
 ```bash
-git clone https://github.com/imskr/Plant_Disease_Detection.git
+git clone https://github.com/karan-vk/Plant_Disease_Detection-py.git
 cd Plant_Disease_Detection
 ```
 

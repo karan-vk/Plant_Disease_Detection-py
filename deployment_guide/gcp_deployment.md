@@ -36,7 +36,7 @@ For example:
 Enter the following command to clone the app repository to your Google Cloud instance and Go to the directory that contains the code
     
 ```bash
-git clone https://github.com/imskr/Plant_Disease_Detection.git
+git clone https://github.com/karan-vk/Plant_Disease_Detection-py.git
 cd Plant_Disease_Detection
 ```
 

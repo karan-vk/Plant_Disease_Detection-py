@@ -4,7 +4,7 @@
 
 ```shell
 # 1. Clone this repo
-$ git clone https://github.com/imskr/Plant_Disease_Detection.git
+$ git clone https://github.com/karan-vk/Plant_Disease_Detection-py.git
 $ cd deployment_guide
 $ cd local_flask
 
