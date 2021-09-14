@@ -5,21 +5,14 @@
 <p align="center">
   <sub>
     Created by
-    <a href="https://github.com/imskr">
-      <strong>Shubham Kumar </strong>
+    <a href="https://github.com/karan-vk">
+      <strong>Karan V </strong>
     </a>
-    <strong>and</strong>
-    <a href="https://github.com/imskr/Plant_Disease_Detection/graphs/contributors">
-      <strong>other contributors</strong>
-    </a>
+    
   </sub>
 </p>
 <hr noshade>
 <br>
-
-## My Article in [TowardsDataScience](https://t.co/iVmRCeUiDI?amp=1)
-
-Models are trained on the preprocessed dataset which can be downloaded [here](https://drive.google.com/open?id=0B_voCy5O5sXMTFByemhpZllYREU).
 
 ## Local Set-Up
 ### Local:
@@ -35,7 +28,7 @@ Models are trained on the preprocessed dataset which can be downloaded [here](ht
 *Make Sure the Docker is installed in your local Machine. [Click Here](https://docs.docker.com/install/) to know that how to install Docker*.
 - **Mac:**
   ```bash
-  $ git clone https://github.com/imskr/Plant_Disease_Detection.git
+  $ git clone https://github.com/karan-vk/Plant_Disease_Detection-py.git
   $ cd Plant_Disease_Detection
   $ docker build -t fastai-v3 .
   $ docker run --rm -it -p 8080:8080 fastai-v3
@@ -44,7 +37,7 @@ Models are trained on the preprocessed dataset which can be downloaded [here](ht
 
 - **Windows:**
   ```PowerShell or Command Prompt
-  $ git clone https://github.com/imskr/Plant_Disease_Detection.git
+  $ git clone https://github.com/karan-vk/Plant_Disease_Detection-py.git
   $ cd Plant_Disease_Detection
   $ docker build -t fastai-v3 .
   $ docker run --rm -it -p 8080:8080 fastai-v3
@@ -55,7 +48,7 @@ Models are trained on the preprocessed dataset which can be downloaded [here](ht
 
 - **Linux:**
   ```Terminal
-  $ git clone https://github.com/imskr/Plant_Disease_Detection.git
+  $ git clone https://github.com/karan-vk/Plant_Disease_Detection-py.git
   $ cd Plant_Disease_Detection
   $ docker build -t fastai-v3 .
   $ docker run --rm -it -p 8080:8080 fastai-v3
@@ -101,12 +94,8 @@ Models are trained on the preprocessed dataset which can be downloaded [here](ht
 | Strawberry|     02        | 'Strawberry___Leaf_scorch','Strawberry___healthy' |
 | Tomato    |     10        | Tomato: 'Bacterial_spot','Early_blight', 'Late_blight', 'Leaf_Mold', 'Septoria_leaf_spot', 'Spider_mites','Target_Spot', 'Yellow_Leaf_Curl_Virus', 'Mosaic_virus', 'Healthy' |
 
-Before making your valuable contribution to this project do check [CONTRIBUTING.md](https://github.com/imskr/Plant_Disease_Detection/blob/master/CONTRIBUTING.md) file.
+Before making your valuable contribution to this project do check [CONTRIBUTING.md](https://github.com/karan-vk/Plant_Disease_Detection-py/blob/master/CONTRIBUTING.md) file.
 
 ## Citation
 When using any part of this repo, please cite: [Plant Village Paper](https://arxiv.org/abs/1511.08060).
 
-<br>
-<p align='center'>
-  <a href="https://www.buymeacoffee.com/imskr" target="_blank"><img   src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p>
